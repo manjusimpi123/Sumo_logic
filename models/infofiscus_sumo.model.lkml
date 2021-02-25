@@ -1,5 +1,6 @@
 connection: "infofiscus_sumo"
 include: "/views/**/*.view"
+include: "/infofiscus_sumo/*.dashboard"
 label: "Infofiscus Finance"
 
 datagroup: infofiscus_sumo_default_datagroup {
