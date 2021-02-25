@@ -1,5 +1,6 @@
 - dashboard: infofiscus_sumo
   title: Infofiscus Sumo
+  extension: required
   layout: newspaper
   preferred_viewer: dashboards-next
   preferred_viewer: dashboards
