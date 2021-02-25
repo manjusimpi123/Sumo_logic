@@ -1,9 +1,9 @@
 - dashboard: infofiscus_sumo
   title: Infofiscus Sumo
-  extension: required
+
   layout: newspaper
   preferred_viewer: dashboards-next
-  preferred_viewer: dashboards
+
   refresh: 1 hour
   tile_size: 100
 
