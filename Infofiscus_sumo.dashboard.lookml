@@ -2,6 +2,7 @@
   title: Infofiscus Sumo
   layout: newspaper
   preferred_viewer: dashboards-next
+  preferred_viewer: dashboards
   refresh: 1 hour
   tile_size: 100
 
